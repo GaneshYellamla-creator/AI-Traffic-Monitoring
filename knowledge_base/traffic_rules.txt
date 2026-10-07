@@ -1,0 +1,21 @@
+TRAFFIC SAFETY RULES
+
+Wrong-Way Driving:
+Vehicles should travel in the permitted direction of traffic.
+Wrong-way movement can create a serious collision risk.
+
+Traffic Congestion:
+High vehicle density can reduce traffic flow and increase
+the possibility of collisions.
+
+Pedestrian Safety:
+Vehicles should give appropriate consideration to pedestrians
+at crossings and designated pedestrian areas.
+
+Restricted Areas:
+Vehicles should not enter areas marked as restricted unless
+authorized.
+
+Emergency Response:
+When a potentially dangerous traffic event is detected,
+the event should be flagged for human review.

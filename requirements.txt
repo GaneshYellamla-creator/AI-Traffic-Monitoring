@@ -1,0 +1,13 @@
+ultralytics
+opencv-python
+numpy
+pandas
+streamlit
+python-dotenv
+langchain
+langchain-community
+langchain-openai
+chromadb
+sentence-transformers
+openai
+openpyxl
