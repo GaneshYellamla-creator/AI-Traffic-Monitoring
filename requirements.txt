@@ -1,5 +1,5 @@
 ultralytics
-opencv-python
+opencv-python-headless
 numpy
 pandas
 streamlit
@@ -11,3 +11,4 @@ chromadb
 sentence-transformers
 openai
 openpyxl
+pillow
