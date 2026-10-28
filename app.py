@@ -1,7 +1,7 @@
 import os
 import tempfile
 from collections import defaultdict
-
+import cv2
 import cv2
 import pandas as pd
 import streamlit as st
